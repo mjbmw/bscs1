@@ -2,7 +2,7 @@ A local cinema is offering discounted tickets based on age and student status of
 
 1.If the customer is below 13 years old the ticket price is P100.
 
-2. If the customer is between 13 and 17 years old and student, the ticket price is P120.
+2.If the customer is between 13 and 17 years old and student, the ticket price is P120.
    
 3.If the customer is between 18 and 59 years old:
 
