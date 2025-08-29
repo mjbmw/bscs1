@@ -11,4 +11,5 @@ A local cinema is offering discounted tickets based on age and student status of
 :Otherwise, the ticket price is P200.
 
 4.If the customer is 60 years old or above, they get a senior discount, and the ticket price is P80
+
 Finally,dissplay the customer's name,age,student status, and the ticket price.
